@@ -40,3 +40,7 @@ Streamlit 1.34.0
 Click on the "Collect Data" button to retrieve a list of the most delayed train times that meet the specified parameters.
 
 5. View the results
+
+## Deployed Version
+
+The application itself can be found here: [train-delay](https://train-delay.azurewebsites.net/)
