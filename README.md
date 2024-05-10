@@ -12,8 +12,8 @@ Train train-delay application is a Python application designed to provide users 
 
 ## Requirements
 
-Python 3.9.1
-Streamlit 1.34.0
+- Python 3.9.1
+- Streamlit 1.34.0
 
 ## Installation
 
